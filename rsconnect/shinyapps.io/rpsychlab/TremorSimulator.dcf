@@ -1,0 +1,14 @@
+name: TremorSimulator
+title: TremorSimulator
+username:
+account: rpsychlab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8430756
+bundleId: 6895912
+url: https://rpsychlab.shinyapps.io/TremorSimulator/
+when: 1677563221.07461
+lastSyncTime: 1677563221.07462
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
